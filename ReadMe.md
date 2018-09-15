@@ -13,6 +13,3 @@ Sleekr Automation Web using Katalon
 7. Select Test Case folder
 8. Select Test Case
 9. Run Test Case
-
-
-

@@ -4,6 +4,7 @@
    <name>SleekrAutomationWeb</name>
    <tag></tag>
    <UUID>4fb33da2-bd9e-4abb-b112-bfa7ee26d6b1</UUID>
+   <UUID>f25846e2-27b4-4b7e-ac86-b19e4a4aec97</UUID>
    <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>

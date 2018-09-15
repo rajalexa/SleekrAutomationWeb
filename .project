@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>%Users%btpn%Katalon Studio%SleekrAutomationWeb%SleekrAutomationWeb.prj</name>
+	<name>%Users%btpn%Katalon Studio%SleekrAutomationWeb%SleekrAutomationWeb%SleekrAutomationWeb.prj</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -18,6 +19,7 @@
 	<filteredResources>
 		<filter>
 			<id>1536982800898</id>
+			<id>1536983410378</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -27,6 +29,25 @@
 		</filter>
 		<filter>
 			<id>1536982800902</id>
+			<id>1536983410380</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1537017201252</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1537017201259</id>
 			<name></name>
 			<type>6</type>
 			<matcher>

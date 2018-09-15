@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User buat penawaran baru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b4cb6b4-ed9e-40ea-a7f6-ebc599021514</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.AccountEmailPenawaran1</defaultValue>
+      <description></description>
+      <id>c89dd53b-2860-4155-9d32-44683f2b9a6e</id>
+      <masked>false</masked>
+      <name>loginActiveUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.AccountPasswordPenawaran1</defaultValue>
+      <description></description>
+      <id>1bdbe043-2afb-4d69-8672-ab3b8be9b33e</id>
+      <masked>false</masked>
+      <name>loginActivePassword</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>eb650875-e4b6-4154-84b7-c6d9054f2582</id>
+      <masked>false</masked>
+      <name>continuou</name>
+   </variable>
+</TestCaseEntity>
