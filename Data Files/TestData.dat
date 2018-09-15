@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TestData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>de92aa1d-610c-4d3d-849f-3cd9fe6aa779</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>EMP004+-+Barliman+Butterbur</data>
+   <data>FSI428CC17JKKB-Bahan+Kain+Kemeja+Pria</data>
+   <data>FSI428CC17JKKS-Bahan+Kain+Kemeja+Wanita</data>
+   <data>BLC-0000004-Balpoint+Label+CP</data>
+   <data>BAL-0000002-Buku+Agenda+Label+CP</data>
+   <data>Just+Testing</data>
+   <data>PPh+23+2%25</data>
+   <data>Add+New</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Value</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
