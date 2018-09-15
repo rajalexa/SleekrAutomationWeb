@@ -83,9 +83,10 @@ act.selectDropdownWithValue(findTestObject('PTTestQaPage/pt_test_qa_tax_dropdown
 
 WebUI.scrollToElement(findTestObject('PTTestQaPage/pt_test_qa_save_button'), 0)
 
-WebUI.click(findTestObject('PTTestQaPage/pt_test_qa_save_button'))
+act.customClick(findTestObject('PTTestQaPage/pt_test_qa_save_button'))
 
-WebUI.click(findTestObject('PTTestQaPage/pt_test_qa_save_as_draft_button'))
+act.customClick(findTestObject('PTTestQaPage/pt_test_qa_save_as_draft_button'))
+
 
 
 
