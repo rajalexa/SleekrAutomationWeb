@@ -12,4 +12,4 @@ Sleekr Automation Web using Katalon
 6. Open project file by clicking, File - Open Project - Select downloaded folder or pull folder
 7. Select Test Case folder
 8. Select Test Case
-9. Run Test Case
+9. Run Test Case using Chrome
